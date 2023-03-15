@@ -1,0 +1,192 @@
+
+*{
+    font-family: Hanken Grotesk;
+    margin: 0;
+    padding: 0px;
+}
+body{
+    background-color: hsl(241, 100%, 89%);
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:hsl(0, 0%, 100%) ;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    margin-top: 80px;
+    padding: 20px 0px;
+    border-radius: 15px 15px 15px 15px;
+
+
+}
+.RESULT{
+    background-color:  hsl(241, 81%, 54%);
+    padding: 20px;
+    width: 50%;
+    height: 100%;
+    border-radius: 15px;
+}
+.SUMMARY{
+    width: 50%;
+    padding: 20px;
+    height: 100%;
+    background-color:hsl(0, 0%, 100%) ;
+    border-radius: 15px ;
+}
+.rudy{
+    font-family: Hanken Grotesk;
+    color:  hsl(241, 100%, 89%);
+    text-align: center;
+    margin-top: 15px;
+}
+.mandy h1{
+    font-family: Hanken Grotesk;
+    color:  hsl(0, 0%, 100%);
+    text-align: center;
+    font-size: 60px;
+}
+.mandy{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.mandy div{
+    border-radius: 50%;
+    background: linear-gradient(hsla(256, 72%, 46%, 1),  hsla(241, 72%, 46%, 0));
+    padding: 35px 70px;
+}
+.sasha{
+    font-family: Hanken Grotesk;
+    color:  hsl(241, 100%, 89%);
+    text-align: center;
+    font-size: 15px;
+}
+.mufasa{
+    font-family: Hanken Grotesk;
+    color:  hsl(0, 0%, 100%);
+    text-align: center;  
+    font-size: 25px;
+    padding: 30px;
+}
+.RESULT .p{
+    font-family: Hanken Grotesk;
+    color:  hsl(241, 100%, 89%);
+    text-align: center;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.SUMMARY .good{
+    font-family: Hanken Grotesk;
+    font-size: 25px;
+}
+.reaction{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: hsl(0, 44%, 95%);
+    border-radius: 5px;
+    padding: 10px 10px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.react{
+    display: flex;
+    align-items: center;
+    color: hsl(0, 100%, 67%);
+    font-family: Hanken Grotesk;
+}
+.react span{
+    padding-left: 10px;
+}
+.react1{
+    font-family: Hanken Grotesk;
+    color:  hsl(240, 8%, 44%);
+}
+.memory{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: hsl(54, 63%, 97%);
+    border-radius: 5px;
+    padding: 10px 10px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.mem{
+    display: flex;
+    align-items: center;
+    color:  hsl(39, 100%, 56%);
+    font-family: Hanken Grotesk;
+}
+.mem span{
+    padding-left: 10px;
+}
+.mem1{
+    font-family: Hanken Grotesk;
+    color:  hsl(240, 8%, 44%);
+}
+.verbal{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: hsl(156, 25%, 92%);
+    border-radius: 5px;
+    padding: 10px 10px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.ver{
+    display: flex;
+    align-items: center;
+    color:  hsl(166, 100%, 37%);
+    font-family: Hanken Grotesk;
+}
+.ver span{
+padding-left: 10px;
+}
+.ver1{
+    font-family: Hanken Grotesk;
+    color:  hsl(240, 8%, 44%);
+}
+.visual{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: hsl(236, 53%, 94%);
+    border-radius: 5px;
+    padding: 10px 10px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.vis{
+    display: flex;
+    align-items: center;
+    color: hsl(234, 85%, 45%); 
+    font-family: Hanken Grotesk;
+}
+.vis span{
+    padding-left: 10px;
+}
+.vis1{
+    font-family: Hanken Grotesk;
+    color:  hsl(240, 8%, 44%);
+}
+.tobi button{
+    font-family: Hanken Grotesk;
+    border-radius: 20px;
+    background-color: hsl(224, 30%, 27%);
+    color: hsl(0, 0%, 100%);
+    padding: 10px;
+    width: 100%;
+    margin-top: 20px;
+}
+.tobi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
